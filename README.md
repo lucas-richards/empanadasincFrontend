@@ -2,3 +2,4 @@
 
 run storefront `npm run dev`
 
+## Deployment
